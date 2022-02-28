@@ -27,8 +27,4 @@ jobs:
           plugin_people_types: members
           plugin_repositories: yes
           plugin_traffic: yes
-          plugin_skyline: yes
-          plugin_skyline_year: 2021
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
           plugin_lines: yes        
