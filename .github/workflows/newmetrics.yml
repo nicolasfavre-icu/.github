@@ -26,5 +26,6 @@ jobs:
           plugin_people: yes
           plugin_people_types: members
           plugin_repositories: yes
+          plugin_repositories_featured: nicolasfavre-icu/What-s-my-config, nicolasfavre-icu/What-s-on-my-computer, nicolasfavre-icu/What-s-on-my-server
           plugin_traffic: yes
           plugin_lines: yes        
