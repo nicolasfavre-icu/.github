@@ -1,4 +1,4 @@
-name: bigass metrics
+name: nicolasfavre-icu metrics
 on:
   schedule:
     - cron: "0 12 * * *"
