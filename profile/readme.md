@@ -1,5 +1,7 @@
 <h1 align="center">
   <br>
+  <a href="https://nicolasfavre.icu"><img src="/profile/nicolasfavre.svg" alt="Metrics" width="100%"></a>
+  <br>
   Nicolas Favre I See YOU
   <br>
 </h1>
